@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "The Last Guardian",
+  "short_name": "Guardian",
+  "description": "A village and forest story adventure with mobile controls.",
+  "lang": "en",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#163d37",
+  "theme_color": "#163d37",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
